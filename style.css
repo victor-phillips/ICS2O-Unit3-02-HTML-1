@@ -1,0 +1,23 @@
+div.header {
+position:sticky;
+background-color:darkcyan;
+border: 5px groove goldenrod;
+top:0;
+text-align: center;
+}
+
+.float1 {
+  border: 2px solid black;
+  overflow: auto;
+}
+
+.six {
+  float: right;
+  width: 300px;
+}
+
+.thinman {
+  width: 500px;
+  height: 2000px;
+  align-self: start;
+}
