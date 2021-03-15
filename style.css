@@ -1,9 +1,9 @@
 div.header {
-position:sticky;
-background-color:darkcyan;
-border: 5px groove goldenrod;
-top:0;
-text-align: center;
+  position: sticky;
+  background-color: darkcyan;
+  border: 5px groove goldenrod;
+  top: 0;
+  text-align: center;
 }
 
 .float1 {
